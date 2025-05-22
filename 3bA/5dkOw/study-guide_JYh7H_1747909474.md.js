@@ -14,7 +14,6 @@ module.exports = {
       'warn',
       'always',
       {
-        ignoreClassFields: false,
       },
     ],
     'max-len': [
