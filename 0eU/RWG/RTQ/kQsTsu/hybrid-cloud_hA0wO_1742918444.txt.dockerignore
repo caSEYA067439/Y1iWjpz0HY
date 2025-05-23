@@ -1,4 +1,3 @@
-.docker/
 bin/
 Dockerfile
 Dockerfile.*
